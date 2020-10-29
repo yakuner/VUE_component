@@ -4,5 +4,5 @@ import './assset/css/my.css'
 const image = new Image();
 image.src = logo;
 document.body.appendChild(image);
-document.getElementById('root').innerHTML = '<h3>今天天气真好</h3>'
+document.getElementById('root').innerHTML = '<h3>今天天气真不好</h3>'
 
